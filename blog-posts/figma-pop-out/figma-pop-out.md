@@ -18,7 +18,7 @@ There is a workaround, however, to getting similar functionality in Figma using 
 
 ## Example
 
-![](https://media.giphy.com/media/fqgrhd4447r8jbZ4H3/giphy.gif)
+![Example showing the steps above](https://media.giphy.com/media/fqgrhd4447r8jbZ4H3/giphy.gif)
 
 It's not as convenient as Zeplin's Pop Out feature but does the job.
 
