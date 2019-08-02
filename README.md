@@ -4,7 +4,7 @@ https://dev.to/bblackwo
 
 ## Blog posts
 
-- [Comparing website with designs using Figma+GluePrint](https://dev.to/TODO)
+- [Comparing website with designs using Figma + GluePrint](https://dev.to/bblackwo/comparing-website-with-designs-using-figma-glueprint-4ahh)
 
 ## Create your own
 
